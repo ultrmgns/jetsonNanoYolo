@@ -44,7 +44,7 @@ Compiling PyTorch with CUDA enabled:
 Version Compatibility Matrix for PyTorch
 This table contains the history of PyTorch versions, along with compatible domain libraries.
 
-PyTorch Version	torchvision	torchtext	torchaudio	PyTorch Release Date
+PyTorch Version	   torchvision	   torchtext	    torchaudio	PyTorch Release Date
 2.4.0	           0.19.9	       0.18.0	        2.4.0	    07/24/2024
 2.3.0	           0.18.0	       0.18.0	        2.3.0	    04/24/2024
 2.2.0	           0.17.0	       0.17.0	        2.2.0	    01/30/2024
