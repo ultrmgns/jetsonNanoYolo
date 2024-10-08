@@ -1,4 +1,4 @@
-YOLO v10's performance bellow Python 3.10 is far too slow, so start with installation of Python version 3.10 or 3.11.
+**YOLO v10's performance bellow Python 3.10 is far too slow, so start with installation of Python version 3.10 or 3.11.
 
 Then, check if you have cudNN and if OpenCV is compiled with CUDA:
 
@@ -76,3 +76,4 @@ After that, you can start object detection from the YOLOv10n.ipynb workbooks (te
 
 
 
+**
