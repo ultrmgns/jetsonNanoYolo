@@ -45,13 +45,13 @@ Version Compatibility Matrix for PyTorch
 This table contains the history of PyTorch versions, along with compatible domain libraries.
 
 PyTorch Version	torchvision	torchtext	torchaudio	PyTorch Release Date
-2.4.0	         0.19.9	      0.18.0	      2.4.0	    07/24/2024
-2.3.0	         0.18.0	      0.18.0	      2.3.0	    04/24/2024
-2.2.0	         0.17.0	      0.17.0	      2.2.0	    01/30/2024
-2.1.0	         0.16.0	      0.16.0	      2.1.0	    10/04/2023
-2.0.0	         0.15.1	      0.15.1	      2.0.1	    03/15/2023
-1.13.0	         0.14.0	      0.14.0	      0.13.0	    10/28/2022
-1.12.0	         0.13.0	      0.13.0	      0.12.0	    06/28/2022
+2.4.0	           0.19.9	       0.18.0	        2.4.0	    07/24/2024
+2.3.0	           0.18.0	       0.18.0	        2.3.0	    04/24/2024
+2.2.0	           0.17.0	       0.17.0	        2.2.0	    01/30/2024
+2.1.0	           0.16.0	       0.16.0	        2.1.0	    10/04/2023
+2.0.0	           0.15.1	       0.15.1	        2.0.1	    03/15/2023
+1.13.0	           0.14.0	       0.14.0	        0.13.0	    10/28/2022
+1.12.0	           0.13.0	       0.13.0	        0.12.0	    06/28/2022
 
 Easiest way is to download manually a pre-built wheel for PyTorch with CUDA enabled.
 Start from this link:
