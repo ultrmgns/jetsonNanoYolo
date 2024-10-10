@@ -1,0 +1,6 @@
+sudo docker pull zelias/yolov10atn:v1
+
+sudo docker run --runtime nvidia -it --rm -p 8888:8888 -p 7860:7860 -p 7866:7866 -v $(pwd):/app --device /dev/video0 --device /dev/video1 -v /tmp/argus_socket:/tmp/argus_socket -v /etc/enctune.conf:/etc/enctune.conf -v /usr/lib/aarch64-linux-gnu/tegra:/usr/lib/aarch64-linux-gnu/tegra -v /usr/src/jetson_multimedia_api:/usr/src/jetson_multimedia_api --privileged zelias/yolov10atn:v1
+
+
+# everything needed for quick inference is in the container, it starts automatically with python 3.10 and opens my initial python workbook, that does object detection with yolo v10. You can just change the model name for a different model like 10s/n/11 etc.
