@@ -78,9 +78,4 @@ systemChecks.ipynb
 
 After that, you can start object detection from the YOLOv10n.ipynb workbooks (tested and working above 50 fps on Orin Nano 8Gb).
 
-\
-\
-Enjoy :)
 
-----
-My name <mymail@abv.bg>
