@@ -41,7 +41,7 @@ Don't forget to check if Architecture corresponds inside the script:
 - For Orin Nano and NX, arch should be 8.7
 - For older: 5.3
 
-Compiling PyTorch with CUDA enabled:
+## Compiling PyTorch with CUDA enabled:
 
 Version Compatibility Matrix for PyTorch
 This table contains the history of PyTorch versions, along with compatible domain libraries.
