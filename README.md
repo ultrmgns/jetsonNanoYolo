@@ -19,7 +19,7 @@ Alternatively you can use the jetsonUtilities:
 Side note: for `JetPack =>6`, it will show "JetPack UNKNOWN" (36.x.x)
 
 
-##Compiling OpenCV with CUDA:
+## Compiling OpenCV with CUDA:
 I took care for most of the errors that occur with this script:
 `OpenCV-4.10.0_2.sh`
 
