@@ -1,4 +1,4 @@
-# Configuring Jetson Orin Nano to have OpenCV with CUDA, PyTorch with CUDA, GStreamer, torchvision and YOLOv10/11 on most USB cameras
+# Configuring Jetson Orin Nano to have OpenCV with CUDA, PyTorch with CUDA, GStreamer, torchvision and YOLOv10/11 on most USB/CSI cameras
 YOLO v10's performance bellow Python 3.10 is far too slow, so start with installation of Python version 3.10 or 3.11.
 Then, check if you have cudNN and if OpenCV is compiled with CUDA:
 
